@@ -1,0 +1,34 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "e76e44ee-3ec5-4d1a-bd04-039f09cb9c2c"
+  "clipboard-plus": {}
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    backUpBeforeSaving: true
+    fontFamily: "Fira Code"
+    fontSize: 15
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "dbd9e4c6-ad8f-ec62-8ddb-172263a36867"
+  linter: {}
+  "linter-pep8": {}
+  "linter-write-good":
+    severityLevel: "Warning"
+  "tree-view":
+    showOnRightSide: true
+  "vim-mode-plus":
+    highlightSearch: true
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
